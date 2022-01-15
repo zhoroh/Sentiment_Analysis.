@@ -1,4 +1,4 @@
-# Sentiment_Analysis.
+# Twitter_Sentiment_Analysis.
 Analysis of the tweets made about 2021, creating a model that can distinguish if each tweet is either positive, negative or neutral.
 
 Below is an image, giving the sentiment of a tweet, after training the model
